@@ -14,6 +14,7 @@
   "author": "Mariia Matviian",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/transformer-inline-string": "^2.8.2",
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2"
   },
